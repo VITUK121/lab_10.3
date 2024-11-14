@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest_10.3.cpp
+C:\Users\VITUK\source\repos\lab_10.3\lab_10.3\lab_10.3.cpp(250,19): warning C4101: 'continue_2': unreferenced local variable
+  (compiling source file '/UnitTest_10.3.cpp')
+  
+     Creating library C:\Users\VITUK\source\repos\lab_10.3\x64\Debug\UnitTest_10.3.lib and object C:\Users\VITUK\source\repos\lab_10.3\x64\Debug\UnitTest_10.3.exp
+  UnitTest_10ю3.vcxproj -> C:\Users\VITUK\source\repos\lab_10.3\x64\Debug\UnitTest_10.3.dll
